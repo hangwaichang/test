@@ -1,0 +1,7 @@
+D:\TestCode\taskfileio\taskfileio\obj\Debug\taskfileio.csprojResolveAssemblyReference.cache
+D:\TestCode\taskfileio\taskfileio\obj\Debug\taskfileio.csproj.CoreCompileInputs.cache
+D:\TestCode\taskfileio\taskfileio\bin\Debug\taskfileio.exe.config
+D:\TestCode\taskfileio\taskfileio\bin\Debug\taskfileio.exe
+D:\TestCode\taskfileio\taskfileio\bin\Debug\taskfileio.pdb
+D:\TestCode\taskfileio\taskfileio\obj\Debug\taskfileio.exe
+D:\TestCode\taskfileio\taskfileio\obj\Debug\taskfileio.pdb

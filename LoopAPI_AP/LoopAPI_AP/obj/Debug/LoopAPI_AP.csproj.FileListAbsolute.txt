@@ -1,0 +1,10 @@
+D:\TestCode\LoopAPI_AP\LoopAPI_AP\bin\Debug\LoopAPI_AP.exe.config
+D:\TestCode\LoopAPI_AP\LoopAPI_AP\bin\Debug\LoopAPI_AP.exe
+D:\TestCode\LoopAPI_AP\LoopAPI_AP\bin\Debug\LoopAPI_AP.pdb
+D:\TestCode\LoopAPI_AP\LoopAPI_AP\obj\Debug\LoopAPI_AP.csprojResolveAssemblyReference.cache
+D:\TestCode\LoopAPI_AP\LoopAPI_AP\obj\Debug\LoopAPI_AP.Form1.resources
+D:\TestCode\LoopAPI_AP\LoopAPI_AP\obj\Debug\LoopAPI_AP.Properties.Resources.resources
+D:\TestCode\LoopAPI_AP\LoopAPI_AP\obj\Debug\LoopAPI_AP.csproj.GenerateResource.cache
+D:\TestCode\LoopAPI_AP\LoopAPI_AP\obj\Debug\LoopAPI_AP.csproj.CoreCompileInputs.cache
+D:\TestCode\LoopAPI_AP\LoopAPI_AP\obj\Debug\LoopAPI_AP.exe
+D:\TestCode\LoopAPI_AP\LoopAPI_AP\obj\Debug\LoopAPI_AP.pdb

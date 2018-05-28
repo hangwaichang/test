@@ -1,0 +1,10 @@
+D:\TestCode\log4net_sample\log4net_sample\bin\Debug\log4net_sample.exe.config
+D:\TestCode\log4net_sample\log4net_sample\bin\Debug\log4net_sample.exe
+D:\TestCode\log4net_sample\log4net_sample\bin\Debug\log4net_sample.pdb
+D:\TestCode\log4net_sample\log4net_sample\bin\Debug\log4net.dll
+D:\TestCode\log4net_sample\log4net_sample\bin\Debug\log4net.pdb
+D:\TestCode\log4net_sample\log4net_sample\obj\Debug\log4net_sample.csprojResolveAssemblyReference.cache
+D:\TestCode\log4net_sample\log4net_sample\obj\Debug\log4net_sample.csproj.CoreCompileInputs.cache
+D:\TestCode\log4net_sample\log4net_sample\obj\Debug\log4net_sample.csproj.CopyComplete
+D:\TestCode\log4net_sample\log4net_sample\obj\Debug\log4net_sample.exe
+D:\TestCode\log4net_sample\log4net_sample\obj\Debug\log4net_sample.pdb
