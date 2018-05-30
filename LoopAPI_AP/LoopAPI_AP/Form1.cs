@@ -21,6 +21,7 @@ namespace LoopAPI_AP
         public delegate void updateview(String myString);
         updateview updateviewfun;
         //1
+        //2
         public Form1()
         {
             InitializeComponent();
