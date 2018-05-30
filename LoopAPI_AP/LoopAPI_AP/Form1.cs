@@ -20,7 +20,7 @@ namespace LoopAPI_AP
         //更新畫面
         public delegate void updateview(String myString);
         updateview updateviewfun;
-
+        //1
         public Form1()
         {
             InitializeComponent();
