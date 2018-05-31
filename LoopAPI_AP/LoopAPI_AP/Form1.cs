@@ -22,7 +22,11 @@ namespace LoopAPI_AP
         updateview updateviewfun;
         //1
 
+<<<<<<< HEAD
 
+=======
+        
+>>>>>>> Test
         public Form1()
         {
             InitializeComponent();
